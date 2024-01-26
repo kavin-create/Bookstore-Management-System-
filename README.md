@@ -1,6 +1,3 @@
-Certainly! Below is a sample README file for your Django Bookstore Management System project:
-
----
 
 # Django Bookstore Management System
 
